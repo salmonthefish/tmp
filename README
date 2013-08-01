@@ -1,0 +1,7 @@
+csv_sorter.rb is the main class that contains the brunt of the code.
+
+csv.rb runs csv_sorter.rb from the command line.
+
+To run csv.rb do: ruby csv.rb <input.csv> -o <output.csv>
+
+Providing the <output.csv> is optional. It defaults to 'results.csv'
